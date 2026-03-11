@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-03-06 16:05:54",
+  "agent_version": "1.0.0",
+  "summary": {
+    "total_asean_population": "约6.8亿",
+    "rail_investment_outlook": "东盟铁路市场规模2025年13.94亿美元，预计2034年达21.43亿美元，CAGR 4.89%",
+    "chinese_market_presence": "中车在马来西亚市场份额85%，越南、印尼、泰国市场持续扩大",
+    "key_trends": [
+      "跨境铁路成为重点：3200公里跨境通道",
+      "融资多元化：45%政府财政、30%多边机构、25%PPP",
+      "技术标准'有限统一'：跨境干线优先标准轨"
+    ]
+  },
+  "top_opportunities": [
+    {
+      "country": "越南",
+      "project": "河内地铁5号线",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）",
+        "工程建设（中铁建、中铁工、中国交建）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "泰国",
+      "project": "中泰高铁",
+      "chinese_opportunities": [
+        "工程建设（中铁建、中铁工、中国交建）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "泰国",
+      "project": "曼谷MRT环线",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "马来西亚",
+      "project": "MRT-3环线",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "马来西亚",
+      "project": "马来西亚东海岸铁路",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "印度尼西亚",
+      "project": "雅万高铁",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）",
+        "工程建设（中铁建、中铁工、中国交建）"
+      ],
+      "risk_level": "中"
+    },
+    {
+      "country": "印度尼西亚",
+      "project": "万隆轻轨",
+      "chinese_opportunities": [
+        "车辆采购（中车、提供多标准方案）",
+        "工程建设（中铁建、中铁工、中国交建）"
+      ],
+      "risk_level": "中"
+    }
+  ],
+  "risk_alerts": [
+    {
+      "type": "政治风险",
+      "severity": "高",
+      "countries": [
+        "菲律宾"
+      ],
+      "description": "政权更迭可能导致项目中断",
+      "reference_case": "北吕宋铁路（2003-2017）"
+    },
+    {
+      "type": "低价中标风险",
+      "severity": "高",
+      "regions": [
+        "中东"
+      ],
+      "description": "报价过低可能导致巨额亏损",
+      "reference_case": "沙特麦加轻轨（中铁建亏损41.53亿元）"
+    },
+    {
+      "type": "法律合规风险",
+      "severity": "中高",
+      "countries": [
+        "南非"
+      ],
+      "description": "税务合规和外汇管制问题",
+      "reference_case": "南非Transnet机车采购"
+    },
+    {
+      "type": "市场准入风险",
+      "severity": "中",
+      "regions": [
+        "欧盟"
+      ],
+      "description": "反补贴调查成为重要障碍",
+      "reference_case": "保加利亚高铁列车采购"
+    }
+  ]
+}
